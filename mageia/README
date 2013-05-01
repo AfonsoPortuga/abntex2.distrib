@@ -1,0 +1,19 @@
+== Sobre ==
+Esse repositório contém o arquivo SPEC do abntex2 utilizado
+para geração do pacote da versão 1.6 para a distribuição Mageia.
+
+Arquivos SPEC são de fácil adaptação para outras distros. Este
+repositório provê um arquivo funcional pronto para adaptação
+nas diversas distribuições que utilizam pacotes RPM.
+
+== RPM ==
+Mageia é uma distro que trabalha com pacotes RPM. Para a
+geração deste tipo de pacote, é necessária a criação de um
+arquivo SPEC que determina como será a compilação e instalação
+do software na distro, gerando em seguida o pacote.
+
+Mais informações sobre pacotes RPM veja:
+http://www.rpm.org/
+
+== Autor ==
+Filipe Saraiva [filip.saraiva@gmail.com]
