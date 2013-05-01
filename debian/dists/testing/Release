@@ -1,0 +1,38 @@
+Origin: http://abntex2.googlecode.com
+Label: abnTeX2
+Suite: testing
+Codename: wheezy
+Date: Wed, 01 May 2013 15:54:14 UTC
+Architectures: i386 amd64
+Components: main
+Description: Unofficial abnTeX2 Debian package.
+MD5Sum:
+ 3a9e02d3cdaba8e5a2fde16770710a16 914 main/binary-i386/Packages
+ e5ce9e53a2f2961f9cc3abc4af50d05a 572 main/binary-i386/Packages.gz
+ f451a65333886741cf5d803f24773198 153 main/binary-i386/Release
+ 3a9e02d3cdaba8e5a2fde16770710a16 914 main/binary-amd64/Packages
+ e5ce9e53a2f2961f9cc3abc4af50d05a 572 main/binary-amd64/Packages.gz
+ cce6755bdde22db44755fff9c32dfded 154 main/binary-amd64/Release
+ 918a46f7c16170c9053898e1398ccfa8 1317 main/source/Sources
+ bf44c720485d907d39228d5f6b139cce 697 main/source/Sources.gz
+ 44e1024e111d9b311fc84accf2dc25fa 155 main/source/Release
+SHA1:
+ 3b66a0ece1b397515513b2c6caa5a4e0ce5daf14 914 main/binary-i386/Packages
+ 0460e3f9677b0dc83afe2149db8c10d54c58c661 572 main/binary-i386/Packages.gz
+ 9ade98b614c07b07b1b3b81b7af8bf7469728352 153 main/binary-i386/Release
+ 3b66a0ece1b397515513b2c6caa5a4e0ce5daf14 914 main/binary-amd64/Packages
+ 0460e3f9677b0dc83afe2149db8c10d54c58c661 572 main/binary-amd64/Packages.gz
+ d73faac59ff661616cfcf9f4b479b5c8eecf6adb 154 main/binary-amd64/Release
+ 0e3c80c3536ca727fba4e2eb83d0ad1fa3a0c3fd 1317 main/source/Sources
+ 5702b8443515989ba0c5463cdf7698826e6e4206 697 main/source/Sources.gz
+ 25cf74d5aff44b72bba1e5e74d1a8f3e19e56f24 155 main/source/Release
+SHA256:
+ 0d5e59366c448d758dc5e0a2319d351d0cf57ff02d57539f627bde9525a42c95 914 main/binary-i386/Packages
+ 75b0d9561eacd4e1278dea93b5a56d9b2660b3c42b85f9ede61e19442bf59567 572 main/binary-i386/Packages.gz
+ ede52256bceeef7d6d4ed758647c187473ac59d49fc39d94cb6795089e04b718 153 main/binary-i386/Release
+ 0d5e59366c448d758dc5e0a2319d351d0cf57ff02d57539f627bde9525a42c95 914 main/binary-amd64/Packages
+ 75b0d9561eacd4e1278dea93b5a56d9b2660b3c42b85f9ede61e19442bf59567 572 main/binary-amd64/Packages.gz
+ 25a130273b043c57ecc655100bd0579514da153307a495a4872ec12ac535a72a 154 main/binary-amd64/Release
+ 63fd7cef354b45d7882f18403ddfe7e2aaac75ec34416fa2ba24fedd86f093a2 1317 main/source/Sources
+ 507abf040fcd3f269bfc879c6bcccf3b1568385236b5b0e546c827197c910dab 697 main/source/Sources.gz
+ 984df6a685af1b12299f4b1ca1d1daf875ea478ef9fc1f672dc8aefa8308e199 155 main/source/Release
