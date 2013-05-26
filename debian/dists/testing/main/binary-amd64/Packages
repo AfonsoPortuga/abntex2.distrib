@@ -8,10 +8,10 @@ Homepage: http://abntex2.googlecode.com
 Priority: optional
 Section: tex
 Filename: pool/main/a/abntex2/abntex2_1.7.1-1_all.deb
-Size: 4678520
-SHA256: 0aa960a5517b94a7894d9597931935026b87ff8aea3849521abbc5a10d27ebda
-SHA1: 0e0dc5d99422cd1360f623514a9b532c8870cb44
-MD5sum: 7a42d761dafa7ec291daed15c5b13f4f
+Size: 4678528
+SHA256: 07706b633bf49f1a63fb499f1a4e513d44d29736d086ac80b4d962dafa6e9b4e
+SHA1: 5d1ebe910622946b1a96d104023066c91a08b5c6
+MD5sum: cf2502a6310acf4e8fcc9b7117d2d724
 Description: LaTeX class for writing documents in ABNT standard
  abnTeX2 is a fork of abnTeX class for writing documents in ABNT standard.
  The Brazilian Technical Standards Association (ABNT) is responsible for
