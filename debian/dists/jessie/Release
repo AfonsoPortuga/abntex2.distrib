@@ -2,37 +2,37 @@ Origin: http://abntex2.googlecode.com
 Label: abnTeX2
 Suite: testing
 Codename: jessie
-Date: Sat, 26 Oct 2013 23:43:24 UTC
+Date: Sun, 27 Oct 2013 02:09:36 UTC
 Architectures: i386 amd64
 Components: main
 Description: Unofficial abnTeX2 Debian package.
 MD5Sum:
- 37569046a5198dab6cb71a46ec252a9b 943 main/binary-i386/Packages
- 692a47ad5b4d306db02f88287492678d 587 main/binary-i386/Packages.gz
+ f157017731d1f30725dfdd5e3dff76e4 943 main/binary-i386/Packages
+ ae6ebd0f01c3f6a904b02e0b932833f3 586 main/binary-i386/Packages.gz
  f451a65333886741cf5d803f24773198 153 main/binary-i386/Release
- 37569046a5198dab6cb71a46ec252a9b 943 main/binary-amd64/Packages
- 692a47ad5b4d306db02f88287492678d 587 main/binary-amd64/Packages.gz
+ f157017731d1f30725dfdd5e3dff76e4 943 main/binary-amd64/Packages
+ ae6ebd0f01c3f6a904b02e0b932833f3 586 main/binary-amd64/Packages.gz
  cce6755bdde22db44755fff9c32dfded 154 main/binary-amd64/Release
- 4f21c33dc786147615cfba6ded92beed 1404 main/source/Sources
- 2821e32fbfaed4af2ccaa808f4573760 757 main/source/Sources.gz
+ f6780b35e9146aed0cf5990573dd95e1 1404 main/source/Sources
+ 3040f311cf635124c0bf5439749b3fa8 757 main/source/Sources.gz
  44e1024e111d9b311fc84accf2dc25fa 155 main/source/Release
 SHA1:
- bcfd172e158826b5b92536e0e6f0d40b7923d560 943 main/binary-i386/Packages
- adb0f3a700b0602b0c57404a1cbb14364cedfcc2 587 main/binary-i386/Packages.gz
+ d59c1fad05154e6304f4554a4f11c90cd056360d 943 main/binary-i386/Packages
+ b1c4fc49fbf5dc55730f18df796c049c38378054 586 main/binary-i386/Packages.gz
  9ade98b614c07b07b1b3b81b7af8bf7469728352 153 main/binary-i386/Release
- bcfd172e158826b5b92536e0e6f0d40b7923d560 943 main/binary-amd64/Packages
- adb0f3a700b0602b0c57404a1cbb14364cedfcc2 587 main/binary-amd64/Packages.gz
+ d59c1fad05154e6304f4554a4f11c90cd056360d 943 main/binary-amd64/Packages
+ b1c4fc49fbf5dc55730f18df796c049c38378054 586 main/binary-amd64/Packages.gz
  d73faac59ff661616cfcf9f4b479b5c8eecf6adb 154 main/binary-amd64/Release
- 4e120da7a4b9ec0a3b76fe1e314dc3f09badf362 1404 main/source/Sources
- 2b0447fd701d3b49da19592ce6878c187955167d 757 main/source/Sources.gz
+ bce85658354eafde916076306a05cfc10adf75f5 1404 main/source/Sources
+ 3c10c1cbe55d077c6de302faf6d05c4d88d03209 757 main/source/Sources.gz
  25cf74d5aff44b72bba1e5e74d1a8f3e19e56f24 155 main/source/Release
 SHA256:
- c6d1a23ec748d4e1dda97ca9e833ce7bde6691bafac803ce5038c2e3a48ab2b9 943 main/binary-i386/Packages
- da03abb9246bdd3023780101a070355b9c54ff3e1a2898550924180db84d62f4 587 main/binary-i386/Packages.gz
+ c4649b4ea58705f50f299aabfff44a57dc7810989108cb87dbaa600bb07013e7 943 main/binary-i386/Packages
+ 851fe899b2caddffa6093b0731e13d7031f90987d3225e05ad19ca63c3a763cf 586 main/binary-i386/Packages.gz
  ede52256bceeef7d6d4ed758647c187473ac59d49fc39d94cb6795089e04b718 153 main/binary-i386/Release
- c6d1a23ec748d4e1dda97ca9e833ce7bde6691bafac803ce5038c2e3a48ab2b9 943 main/binary-amd64/Packages
- da03abb9246bdd3023780101a070355b9c54ff3e1a2898550924180db84d62f4 587 main/binary-amd64/Packages.gz
+ c4649b4ea58705f50f299aabfff44a57dc7810989108cb87dbaa600bb07013e7 943 main/binary-amd64/Packages
+ 851fe899b2caddffa6093b0731e13d7031f90987d3225e05ad19ca63c3a763cf 586 main/binary-amd64/Packages.gz
  25a130273b043c57ecc655100bd0579514da153307a495a4872ec12ac535a72a 154 main/binary-amd64/Release
- c006abbcde5e3bc369f0de7af661f03802a8f5851b3adad4c0b2ed0fc96f4f8b 1404 main/source/Sources
- edfad5c8af29dfa418642c7d0eca57056e9c74cf264eeffa45036957a580691f 757 main/source/Sources.gz
+ 49b832a6ac1bd429b92bee11300a0bfc57c864eb40655b4e6ccfb7657d43855f 1404 main/source/Sources
+ ca8442d70c1ea10de9517bcabedffa5757894f5af60a250bddda67602d45b436 757 main/source/Sources.gz
  984df6a685af1b12299f4b1ca1d1daf875ea478ef9fc1f672dc8aefa8308e199 155 main/source/Release

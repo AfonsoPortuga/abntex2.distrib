@@ -17,29 +17,29 @@ Build-Depends-Indep: texlive-latex-recommended, texlive-latex-extra, texlive-fon
 Package-List: 
  abntex2 deb tex optional
 Checksums-Sha1: 
- 2604f45dfe12e161c8e8bc3bbf886327785ec8e7 6698211 abntex2_1.9.orig.tar.gz
- 49609f61dc4bc7b51a565444becae3af18a4abb4 8389 abntex2_1.9-1.debian.tar.gz
+ 2ff8804752214a4e29efc290390dd923af6155b5 6705166 abntex2_1.9.orig.tar.gz
+ 9f2f9c221a08178f556fe9e96f3d54ab425ebcce 8407 abntex2_1.9-1.debian.tar.gz
 Checksums-Sha256: 
- a5ce78b3b1ad15c33e83499aa307886d0cc69d9055ccb03cc00d91b266811346 6698211 abntex2_1.9.orig.tar.gz
- 88ab9d31e8e96313ddad849e0be7dcb2839c69d2ab6e3e8833c0a1b15bf98d67 8389 abntex2_1.9-1.debian.tar.gz
+ 9f2808a0ae1c5c9ae7be2a61c657aeec8113b1d09af0ff19a9687acff2da2148 6705166 abntex2_1.9.orig.tar.gz
+ ad86896d92b63008eee8d22cda53a93f33df28b3ccba4a65a3858fef8048908d 8407 abntex2_1.9-1.debian.tar.gz
 Files: 
- 0ba01d2ed08d8b1ef3c36b3a9880c11c 6698211 abntex2_1.9.orig.tar.gz
- 70716d9c0db32d872a9d71a872c6b10f 8389 abntex2_1.9-1.debian.tar.gz
+ 8e0393b97c8fadfaeeabf1e4c0044e5e 6705166 abntex2_1.9.orig.tar.gz
+ a5a851517c2b844fcde87b876341fa1c 8407 abntex2_1.9-1.debian.tar.gz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.15 (GNU/Linux)
 
-iQIcBAEBCAAGBQJSbE8bAAoJEIaYHMmJxVRncaIP/jo4pz1xstTRGJq3l22exrFy
-vUf94wgLOTC44y55ImjAKR/ucB/dF2f82Ag0/ZIhs3HXXZ5uIL+iCmmEQILSVmpO
-NWoUdZn72YUKQ6geKg3hfmAiXwV069NVx38F7vWSMzrwxPei4PpRXfq25ZPQKcFy
-kT0BtCRpIpn4XRg5Nh1nMq1ryqx9JM5Bklxda5/IyUsklwGvFQMWlQ8VuAAZ5ZFm
-EEk23AGtzkf5+WLQvxdAoNxoNt+q2GDNMhm67IsApWQp7+Jr4H1DSwPiLzfMppLT
-kXarexYMwW+S8LS654QtjZ6xVtOF2T4TVMSfeZ1wg0/kgxZgtSuEhOQM4WdPOWVd
-i9jvpQTjryhwT4rHTSgMoni1/1MteRMYSSKgMNjM9C/grU65XK3WjeMRq2FP8i/H
-Ux067nle0HmYf/Qwzt1oBYWu6E3gEGobDtbE2G2wAl4mqelPsDVmKNUjR2we3uNq
-tqP9NlMWyeClB4s3y7Dxq7vpLHZkvHReT6rOCGKjKYYpe4RlxHU0goKqpgVhD5Hg
-T5DrJSecWvdnSz0zCWP/8PSSysBlZ2lT23YBLuHpIsq6M0miHhVDaoJK/O4tuVFm
-/UhzDP3DvCecd+roJLFpwUeFYhJJuiiPvp3X90WxsnNYj03632Eq03ggx656TCFr
-gnOh6ZXUCsfiEn/xyAWO
-=+QtH
+iQIcBAEBCAAGBQJSbHSZAAoJEIaYHMmJxVRnnIYP/2nyfY7L97TnUvNCk2y8bbL/
+fvCvTyFtx7sySdGE0r8bOAPH5VoFLC9Yy+rDGkgc+e2PuqG/QIog/yDr08zEzQXD
+72n9aVTJFRr6oIzCMYubggPyXHp/9YxouGeVnVBz9aFbA4SXw502XRpNWO43iAbD
+X/rCxa4Csj4M9M7rVfWbQlUBv0/zgMxsZEG0kOL4OzlVBD7Vepd3o6mkmzPeBswn
+eOsY9tzGm6blOWqIEqqLUL72TNQgIFe/Kt9b2ejgl/XXtGpMVTyR5F8io2piIIUb
+LwLbz93IECdsLadCjpqWQ5S2HNna0OQo9dVuVVd7b5kCPooza8DnadA3CMGlPKIS
+h7l1Ve1kuLQsHhGFUPn9yWyk/7gniilInOkX8RFChnRPTU+8ci4TDBr0Rew7hA6G
+EHokAOat8wNSC7W9P4AMDLEGmC69vAD0PoR8kCsbGuoQLjYaCVsufHH8kPz6YcYT
+oyzDc4P7GG0afY34YoMq9ovoNJMLQkjY88E/9PwojZT8itgvCX6f/sGAAc/ufUUG
+lkEf9oe8bixTJAi1Wy1MRMgajSP5CGu9G64OWXVMd7xQbI7qEdspkYODdKoTKFsv
+5HIwPtYWsb9fEYAYu+pTY7N1acQI/4ecaLireoJdU5SW9h7aFnOi/2LrnhLALqei
+65X+STopZTzW4mPXTkc2
+=2/L0
 -----END PGP SIGNATURE-----
