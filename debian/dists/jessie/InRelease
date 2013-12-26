@@ -5,54 +5,54 @@ Origin: http://abntex2.googlecode.com
 Label: abnTeX2
 Suite: testing
 Codename: jessie
-Date: Sun, 27 Oct 2013 02:09:36 UTC
+Date: Thu, 26 Dec 2013 18:34:18 UTC
 Architectures: i386 amd64
 Components: main
 Description: Unofficial abnTeX2 Debian package.
 MD5Sum:
- f157017731d1f30725dfdd5e3dff76e4 943 main/binary-i386/Packages
- ae6ebd0f01c3f6a904b02e0b932833f3 586 main/binary-i386/Packages.gz
+ 7139ec205d543384c06eeb45362cf523 947 main/binary-i386/Packages
+ 3aa3e3765bfe2ded03d8c3db62cef7e3 588 main/binary-i386/Packages.gz
  f451a65333886741cf5d803f24773198 153 main/binary-i386/Release
- f157017731d1f30725dfdd5e3dff76e4 943 main/binary-amd64/Packages
- ae6ebd0f01c3f6a904b02e0b932833f3 586 main/binary-amd64/Packages.gz
+ 7139ec205d543384c06eeb45362cf523 947 main/binary-amd64/Packages
+ 3aa3e3765bfe2ded03d8c3db62cef7e3 588 main/binary-amd64/Packages.gz
  cce6755bdde22db44755fff9c32dfded 154 main/binary-amd64/Release
- f6780b35e9146aed0cf5990573dd95e1 1404 main/source/Sources
- 3040f311cf635124c0bf5439749b3fa8 757 main/source/Sources.gz
+ 3ead25ec2cf9ab9c034e8b8fef1ad099 1424 main/source/Sources
+ dc720fd51f9052bff01c123082915a17 758 main/source/Sources.gz
  44e1024e111d9b311fc84accf2dc25fa 155 main/source/Release
 SHA1:
- d59c1fad05154e6304f4554a4f11c90cd056360d 943 main/binary-i386/Packages
- b1c4fc49fbf5dc55730f18df796c049c38378054 586 main/binary-i386/Packages.gz
+ e3aabba73ca9e0042e112c7dd868f3632fcdd90b 947 main/binary-i386/Packages
+ d95bde677e8c97c649fd94a8ce531928e6332266 588 main/binary-i386/Packages.gz
  9ade98b614c07b07b1b3b81b7af8bf7469728352 153 main/binary-i386/Release
- d59c1fad05154e6304f4554a4f11c90cd056360d 943 main/binary-amd64/Packages
- b1c4fc49fbf5dc55730f18df796c049c38378054 586 main/binary-amd64/Packages.gz
+ e3aabba73ca9e0042e112c7dd868f3632fcdd90b 947 main/binary-amd64/Packages
+ d95bde677e8c97c649fd94a8ce531928e6332266 588 main/binary-amd64/Packages.gz
  d73faac59ff661616cfcf9f4b479b5c8eecf6adb 154 main/binary-amd64/Release
- bce85658354eafde916076306a05cfc10adf75f5 1404 main/source/Sources
- 3c10c1cbe55d077c6de302faf6d05c4d88d03209 757 main/source/Sources.gz
+ 411e5f1a98585db3c10034409a6ba3214cadca2f 1424 main/source/Sources
+ 82e5ac20da17b43959b8be657af1286018be202c 758 main/source/Sources.gz
  25cf74d5aff44b72bba1e5e74d1a8f3e19e56f24 155 main/source/Release
 SHA256:
- c4649b4ea58705f50f299aabfff44a57dc7810989108cb87dbaa600bb07013e7 943 main/binary-i386/Packages
- 851fe899b2caddffa6093b0731e13d7031f90987d3225e05ad19ca63c3a763cf 586 main/binary-i386/Packages.gz
+ 63a9e6053a5c134f377939e0b3e7cb1cc3114f1a4799bacee595a892257b27e9 947 main/binary-i386/Packages
+ 4d4c943555be316ba812c6903bb6b75adedf5542484d1c3925f5acfb79267169 588 main/binary-i386/Packages.gz
  ede52256bceeef7d6d4ed758647c187473ac59d49fc39d94cb6795089e04b718 153 main/binary-i386/Release
- c4649b4ea58705f50f299aabfff44a57dc7810989108cb87dbaa600bb07013e7 943 main/binary-amd64/Packages
- 851fe899b2caddffa6093b0731e13d7031f90987d3225e05ad19ca63c3a763cf 586 main/binary-amd64/Packages.gz
+ 63a9e6053a5c134f377939e0b3e7cb1cc3114f1a4799bacee595a892257b27e9 947 main/binary-amd64/Packages
+ 4d4c943555be316ba812c6903bb6b75adedf5542484d1c3925f5acfb79267169 588 main/binary-amd64/Packages.gz
  25a130273b043c57ecc655100bd0579514da153307a495a4872ec12ac535a72a 154 main/binary-amd64/Release
- 49b832a6ac1bd429b92bee11300a0bfc57c864eb40655b4e6ccfb7657d43855f 1404 main/source/Sources
- ca8442d70c1ea10de9517bcabedffa5757894f5af60a250bddda67602d45b436 757 main/source/Sources.gz
+ 7b8e8f40f477092fb4c2f7971af61648f23210e5ec39d5b768c705fda0a004ba 1424 main/source/Sources
+ e681c75664fbef33ae4cc9352fd2b267ad1cb7111f953ad073f6dab7c48bb353 758 main/source/Sources.gz
  984df6a685af1b12299f4b1ca1d1daf875ea478ef9fc1f672dc8aefa8308e199 155 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAEBCAAGBQJSbHXgAAoJEIaYHMmJxVRnDEsP/RPnpOX/49WXuUJ2ujNhVjJ/
-6tsGSSTfpfLV6KBP0lLV50drqeU9YYTklv/+QOA98+p/oAg7ENm+oayBD5hXJQB1
-VNue+Mj6MU4jXK4oh5dmGfQwvPXHXr4rLEOqc7Hk3APftDxpAn7iqMsNUluLR8z7
-M5ET2FzCBQzRrqib4nq5+YSgHSVaDkFNGUfwO6Dqt9Hm6p4GuUcdtau0FRsxcw1m
-SZos4o0qsAEp5JXKy2e1/JvlVFoTIXhEs6P0y8Nq5ezF/YGtZXBkpFnvDeMSU/Zv
-KI8BQvMNEPrx9nukxBYnwNeFoPoIu/dEyyGqoKEHLBSWsFX/BEkNlMtiU+cFKejP
-4xU/pQ5uYN3WyzmMg9PLq3PqABp9hBWjs5FT/bdZn0KpnW3bBje+Vws6gGB2Br2C
-bAHb58HlC2J4mGZ5TrILar6WrtaobBaxsYbNkIMWoECB9cQwbl8KHUm5wQFA1rsy
-fzeYa8xiinRQ62ixsHOQ1D3+kqVW8cBOBKQL/FFBswT4NJ2FuFsuAgvOFZXBGSI7
-iIQkyEDoY02Idj/dYSdzDu24P2/HHXGWEXeDlD8iCYGXaIirbFCe3LQ1GVMhWjhu
-P1nHd4GQGuK8bGQWyOSWb8wIRu9BFTqrLF1PTJWLuSH9Ed9HVrS9gbBCJ7h/TDhE
-1/5mF/PsL5vlLBXmW7h9
-=IEny
+iQIcBAEBCAAGBQJSvHaqAAoJEIaYHMmJxVRnuFgP/37KcZo1Wkp334YPDJIwg0Gt
+UIyBGeWUzFqRnXT43YD/d3drcht2BV4WT9zYdhKXV1JiKh4+9BEJIBo7Qi+SEkK4
+iGR/F1JXROfEN0bl3JqnCG09S92LQKAeAm4bKbYfuj3lNJHZe6F7met+Sv828Ijo
+ASwqT5PtapR0F2QCqaFqHDbflEAh/Ho8VwSOz0kax19NceZlbX3BG6+Mywx3KCEK
+m187yTmifAOMMj470o9ZovtWoG5giI+DZf7wOGb/5+9hhtEhmwSel46QuWwGsp8+
+p7+CKYiyZGrMh7L7MCAKPpkUuGCLdvIzTLlkl5WV+ag1RtAdglw6vkh0mjfpr1v5
+kBJuaoVBjZUWTcYb9t0qFxQYFGi9lPJQ5Yl4kiIrwAcdHF2QvYPoXl0qAcrBghgw
+iwn9XnDzggc42nzo6knKC5qbta2FWO+Uapg27q0LzBtvjRgYVH0O3JG+KpgLE3dq
+VqQUKmAlrYHi42EhQHWxipXUuxJgSS/La7yhuIhMwh0LfZMJBimHlI1NT1w6cHZj
++wAWhH9SP3jP4xqjTeihHddZcsS6m7B4s7F6DlSGvfEemjeYIjlyOqOUx/mDOrkd
+279lUFybj2HNBUL7oyNudFhSv8LwHIlBeCmNu1yCnOTEdHdcDVs4jhhX9wOlqmdT
+oSXtv0bv429JL47ts5za
+=/8rx
 -----END PGP SIGNATURE-----
