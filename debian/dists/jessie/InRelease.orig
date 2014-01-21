@@ -1,0 +1,58 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: http://abntex2.googlecode.com
+Label: abnTeX2
+Suite: testing
+Codename: jessie
+Date: Tue, 21 Jan 2014 01:51:30 UTC
+Architectures: i386 amd64
+Components: main
+Description: Unofficial abnTeX2 Debian package.
+MD5Sum:
+ 989d584a2170fdce7330769b27943743 947 main/binary-i386/Packages
+ c8f38926f0a8d7fbffdc9154b394c1c3 590 main/binary-i386/Packages.gz
+ f451a65333886741cf5d803f24773198 153 main/binary-i386/Release
+ 989d584a2170fdce7330769b27943743 947 main/binary-amd64/Packages
+ c8f38926f0a8d7fbffdc9154b394c1c3 590 main/binary-amd64/Packages.gz
+ cce6755bdde22db44755fff9c32dfded 154 main/binary-amd64/Release
+ 4090628a2140e2f7a2663f738c26b6f8 1424 main/source/Sources
+ 399d9bb193ce85923bdde5e7b2ed1ef4 762 main/source/Sources.gz
+ 44e1024e111d9b311fc84accf2dc25fa 155 main/source/Release
+SHA1:
+ b5104a4fc5655c2abd7ced8d4f21786439c61c25 947 main/binary-i386/Packages
+ 2982df4cc434d24a7b3257cc7ed60c51b6f2e49d 590 main/binary-i386/Packages.gz
+ 9ade98b614c07b07b1b3b81b7af8bf7469728352 153 main/binary-i386/Release
+ b5104a4fc5655c2abd7ced8d4f21786439c61c25 947 main/binary-amd64/Packages
+ 2982df4cc434d24a7b3257cc7ed60c51b6f2e49d 590 main/binary-amd64/Packages.gz
+ d73faac59ff661616cfcf9f4b479b5c8eecf6adb 154 main/binary-amd64/Release
+ 8b4ddedfee22f7572ab9136b07f771dd5a9c0218 1424 main/source/Sources
+ ac23cee75d4ca7d75f116051640905b912c417df 762 main/source/Sources.gz
+ 25cf74d5aff44b72bba1e5e74d1a8f3e19e56f24 155 main/source/Release
+SHA256:
+ bfff503f990d0ff62d508410778ac4d2a7ba94ebffc718d6b2f5b94cdae0c7e8 947 main/binary-i386/Packages
+ c19c3c8d0b83925689ecb9931d6010bb62a65bfe0c795adbdfecc2bb9ecaab23 590 main/binary-i386/Packages.gz
+ ede52256bceeef7d6d4ed758647c187473ac59d49fc39d94cb6795089e04b718 153 main/binary-i386/Release
+ bfff503f990d0ff62d508410778ac4d2a7ba94ebffc718d6b2f5b94cdae0c7e8 947 main/binary-amd64/Packages
+ c19c3c8d0b83925689ecb9931d6010bb62a65bfe0c795adbdfecc2bb9ecaab23 590 main/binary-amd64/Packages.gz
+ 25a130273b043c57ecc655100bd0579514da153307a495a4872ec12ac535a72a 154 main/binary-amd64/Release
+ 144fad6f2bbc72e41d953ef832a75e5b12b58dfb734a7267b37a0c658fdc694a 1424 main/source/Sources
+ 62452be9f9c34fa55bc78f5432f8e467ad3afa45416fbf8f6828614e085116c1 762 main/source/Sources.gz
+ 984df6a685af1b12299f4b1ca1d1daf875ea478ef9fc1f672dc8aefa8308e199 155 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+iQIcBAEBCAAGBQJS3dKiAAoJEIaYHMmJxVRnwKUQAKG7XpRruYCB6Fi/WjqfLoqJ
+i53Pokhtxt4xYPy8nb9DomtwTnGBwePHpdhDCHwrAehbtdmMTfU2OWBJh6K0lG1I
+cTjjne+4Bl11Y1+QEwVdHlLWUEVTEvZp9Jnv8taakbzE4jCEPTkYLTDEPFLp7Wgx
+2HCsBER4cmyhxKm00/+kp4V/n60bNnO+Qq1juEePnIAqrQ9292y/wnUAr1xw6UlF
+V1zPltzdPDk2GkrgM5rCZMdPXCib83rwpumtgqCohLxkV2kpFLnUacakob8mGQwn
+/YIa+vLJKpVY05Nmdb481KfGQRQKEMl/t7eTJ3dReoSYzJ9DivTAkdYmLT+AOiXE
+9XPSpBhgexU4pwppenYfJnJvjVjVgktpPetRFKsngXXam9ZW9BFAptrT3wYQ7PMG
+wUWSR1cAQgPslTnXjsNzxkI0NDgFdO2JWhgixHrdr6Yz/wufv8ACJi9+au7uE6s+
+ErVOwvHHQ9MYmDLWe6ResB4eN9NTkcmUQ/AthoZTZgZkUeH/fMfjCeYIJ7iq0G5O
+6kerTQXRKZV27pCDsiOOEWdY6lP0Xuo32UsbOM0ZMDtlq9WZSQR7Ph1n/Ez2FSD2
+5N518OYy81iymIajxuo52f6M0Iu/M9J4Kb+qthN5HOU7cwOBROPhLa373ZrQnI5e
+gmiUWpShPxH8ICubMGvL
+=/Ydm
+-----END PGP SIGNATURE-----
