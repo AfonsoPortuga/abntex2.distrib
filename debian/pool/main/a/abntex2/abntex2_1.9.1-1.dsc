@@ -17,29 +17,29 @@ Build-Depends-Indep: texlive-latex-recommended, texlive-latex-extra, texlive-fon
 Package-List: 
  abntex2 deb tex optional
 Checksums-Sha1: 
- 4ddfcb02dccbcc2e72a799dbea3417be4b79f3fc 6856421 abntex2_1.9.1.orig.tar.gz
- e878cc0ad49bbe5e09aaf483868144c3b7a5470c 8436 abntex2_1.9.1-1.debian.tar.gz
+ 8862fe20b401dc936778cd2ff75b4ff739dadb59 6864677 abntex2_1.9.1.orig.tar.gz
+ b3d589314828985b21a20dd86779b4bbe1cdc038 8004 abntex2_1.9.1-1.debian.tar.xz
 Checksums-Sha256: 
- 86e08a165e57d1141ac8cc5df38de9940a89fd3026fc536f6910e83eed07253b 6856421 abntex2_1.9.1.orig.tar.gz
- 697bb20d1a130cb97e784b14c2e22cbf1f02fe0690506bd3895d7a2ff75bd38b 8436 abntex2_1.9.1-1.debian.tar.gz
+ 486a77cbcbbeb423a1c43d08a872d774eccac24d35aa992cc6e6200e7547cdac 6864677 abntex2_1.9.1.orig.tar.gz
+ 2436fdc62a1d8b9b580b71168ce6fdaaa33eafe3f1bc8a247564f90ce76e904b 8004 abntex2_1.9.1-1.debian.tar.xz
 Files: 
- 5819ec383e35ebe14c1cd5ae2341a62f 6856421 abntex2_1.9.1.orig.tar.gz
- 7a1906a70e4be74179a629205eb059bb 8436 abntex2_1.9.1-1.debian.tar.gz
+ 68df2ca968d8d218a61b023ea4f15b12 6864677 abntex2_1.9.1.orig.tar.gz
+ e504420471837860fa7d9061455aea4c 8004 abntex2_1.9.1-1.debian.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2.0.22 (GNU/Linux)
 
-iQIcBAEBCAAGBQJSvHTCAAoJEIaYHMmJxVRnLyoP/3ZofMLUt1ojL53gHdWoKMnw
-5kOp/1RjFiGuIT1pFYIs8FaMsaGYCZ0pBaPTMQllLP6T2ZujzUmV0k1RzZBZwxGB
-Iibmj7QXHtFNTFiAdVgu1plGgE41Ic5g39219EmzjHf50mVkRig4H7D0OHj7NiEl
-hDVyM5/+5A9P+kOLRA1piVIRJTiUCWL3eXctho1gDJmh2fzxWdu6M0gj9K85htsN
-gfbXME4V2mOE8sKrPJMx3H4gIyUFM/DQOxucK+Wv0YdtlaulyBgYVuUjy6BJ9sDR
-N5aJiSl/BXbGMUASjCXC5yJSbOm5kD3q+hTJ/AuVrbYzyNnxGwqF5lSw/HRQgFnI
-oAI4nIL+/ybZEFKQKuipNY24g4EpOXJyaSN7A9RGuIA0h2qFQFCkIgKjHk/nhSqJ
-LqfSD60eAIHBC8Hee1/HbQmh9haIaEfTqAZMRawheqDzykk5YabMl7PuMxH28B3Y
-cAX2GDLX9lcj/fbrlq67tOnZ5bv+cAT9r9U37Ju4bsvkOspTDlcLoX5usuC20E2m
-gi+SkmXDoHiPfOUntw2bnPvTUFMmfknjZDYbHWl4lH/uL7nSXLeCkNNe2zGVTZLT
-sQcKKg14zjWbNDqYPaCC74mXQUDhcz7mCKr3mBh2jEGN4rhlvKPu+dMP+ph+ar9J
-2DFKINtMQzamLqzT/JF6
-=jW9K
+iQIcBAEBCAAGBQJS3dDOAAoJEIaYHMmJxVRntnQQAJ19NDKsJd3jiO1rTEJ+Iayf
+/jh0IwWmlQnGpXWs6JVBj9k4SroJH4sCuOWkyGXLBriEpTTugWelZPkLMRqmG0jP
+xym75adAwUf5Fs3dRNIxLPEqHdRqzkHyhjtGqsoY59zY40nsNgCVGNNySuPJkH69
+swKsGxclBOTKdGeI19QVAdP1OJzLthso9zyaf1WY+RAFNWnv/Lp7b684ccQgLTB2
+uN+boL8mJV7PczsTKMrWSWsFA25xVh7yh8TxSlZR6XFf3nEkUshJcSq64GsYtYOQ
+g5YRQeTCuMeCUPWxKrpKheoH9Sn0C7sKFJhIw8mZ4jNzhKCVzUgr1s82sB6qH+LE
+D/K1RnKSlZZ6aPse0qGL+e0d9Lcsfsz4NLBTm83tLXij12mmPYf9Xo0/ZZrXTxSr
+yPKPyXizp9hM/UJhzTDUxfcQTLvaRT6ccxGwYa/w/xfflAibeShUEMH0mTWKbl2n
+mOFwWiKYVIUpftigK/IKotclfWXC7dZIYsuE83HRPW637PLdF6dG3kemdapQnHRM
+0D2ovu/kBZLP5CBv4gswKLvAr7sVOXtm/Ural/ZjQzIWQCS9g1m1NhnGeB6MfyCu
+KfPTpWCZsvZKeMgpvXvHvfddvf9OCC92UWAm5D3V3J2ScoJfHuWJ+nNvGDc7ATU7
+JExBRv0isdFDv6WTJRJ4
+=U6rX
 -----END PGP SIGNATURE-----
