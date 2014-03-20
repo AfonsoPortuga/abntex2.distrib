@@ -1,19 +1,19 @@
 Package: abntex2
-Version: 1.9.2-1
+Version: 1.9.2-2
 Architecture: all
 Maintainer: Marcelo Santana <marcelo@msantana.eng.br>
 Installed-Size: 7489
-Depends: dpkg (>= 1.14.18), tex-common (>= 3), texlive-latex-recommended, texlive-lang-portuguese, texlive-latex-extra, texlive-fonts-recommended
+Depends: dpkg (>= 1.14.18), tex-common (>= 3), texlive-latex-recommended (>= 2013), texlive-lang-portuguese (>= 2013), texlive-latex-extra (>= 2013), texlive-fonts-recommended (>= 2013)
 Recommends: liblatex-driver-perl
 Replaces: abntex2 (<= 1.9.1)
 Homepage: http://abntex2.googlecode.com
 Priority: optional
 Section: tex
-Filename: pool/main/a/abntex2/abntex2_1.9.2-1_all.deb
-Size: 4637158
-SHA256: 0e58c7b0665ff5457f0715e0bbe673a5682bd88e446b7aebd7e7608467cf459a
-SHA1: 8fa56977fa74ce1a813702cdabb03b91fbd8aea1
-MD5sum: 3b635796f78ff5a8e8f71302deeee77d
+Filename: pool/main/a/abntex2/abntex2_1.9.2-2_all.deb
+Size: 4637220
+SHA256: 05bae49a0c78affbef6262d7cd58aedc5a4368dcf270bd3af8fa303b9e165d5d
+SHA1: c5cd5cc37b312bc0387dc925a4361b491de9bb76
+MD5sum: 09c7f67c9c3364b190c73dc285800d18
 Description: LaTeX class for writing documents in ABNT standard
  abnTeX2 is a fork of abnTeX class for writing documents in ABNT standard.
  The Brazilian Technical Standards Association (ABNT) is responsible for
